@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JamerchGIT/JamerchGIT/main/snake.yml" alt="Snake animation" />
-
-###
